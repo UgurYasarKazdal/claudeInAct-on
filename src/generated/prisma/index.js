@@ -134,7 +134,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/Users/bookreen/Downloads/uigen/src/generated/prisma",
+      "value": "/Users/bookreen/Documents/GitHub/claudeInAct-on/src/generated/prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -148,7 +148,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/Users/bookreen/Downloads/uigen/prisma/schema.prisma",
+    "sourceFilePath": "/Users/bookreen/Documents/GitHub/claudeInAct-on/prisma/schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
@@ -162,6 +162,7 @@ const config = {
     "db"
   ],
   "activeProvider": "sqlite",
+  "postinstall": true,
   "inlineDatasources": {
     "db": {
       "url": {
